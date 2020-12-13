@@ -1,0 +1,4 @@
+class Object
+  private
+  def main: -> nil
+end
